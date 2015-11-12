@@ -1,0 +1,8 @@
+[
+  {
+    "date": "2015-05-17 12:55:18 -0700",
+    "height": "2-3 ft +",
+    "description": "knee to chest high",
+    "report": "                                        <strong>Dawn Patrol Report for the South Bay:</strong> Conditions start off clean this morning as calm to light wind prevails. Smaller waves on tap now with easing SSW swell and some smaller westerly swell in the water. Most areas see knee to waist+ zone surf with occasional sets to chest high. Standout spots run slightly larger, and there are a few fun, crossed-up peaks at the better combo beachbreaks. The tide is on the rise, eventually reaching a 4.36' HIGH just before 10am.<br><br><strong>Short-Term Forecast for the South Bay:</strong> Our SSW and westerly swell mix eases further through the day. Expect shape to really slow down as the tide tops out around mid morning. A moderate onshore sea breeze develops for the afternoon.<br><br><strong>Note:</strong> County health officials advise against ocean water contact for up to 72 hours following a period of significant rainfall due to elevated bacteria levels - especially near drain pipes, harbors and river mouths."
+  }
+]
